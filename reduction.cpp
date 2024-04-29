@@ -1,5 +1,4 @@
 #include <iostream>
-//#include <vector>
 #include <omp.h>
 #include <climits>
 using namespace std;
